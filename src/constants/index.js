@@ -34,7 +34,7 @@ import {
 import { DiCss3, DiJava } from "react-icons/di";
 
 export const resumeLink =
-  "https://drive.google.com/file/d/1jRv17idTuHhKFF97R61FmdliQure-53K/view?usp=drive_link";
+  "https://drive.google.com/file/d/1TwPJsZw9NiwvNZFZ6bON4SNyKkci0UwA/view?usp=sharing";
 export const repoLink = "https://github.com/aashiyatanwar";
 
 export const callToAction =
@@ -175,24 +175,7 @@ export const skills = [
 ];
 
 export const experiences = [
-  {
-    organisation: "Coding Ninjas, India",
-    logo: codingninjas,
-    link: "https://www.codingninjas.com/",
-    positions: [
-      {
-        title: "Teaching Assistant Intern",
-        duration: "August 2020 - December 2020",
-        content: [
-          {
-            text:
-              "Mentored a batch of 50 plus students to help them with their Java and Data Structure Algorithm assignments and set problems for monthly assessments. Mentored students to improve problem solving skills.",
-            link: "",
-          },
-        ],
-      },
-    ],
-  },
+  
   {
     organisation:
       "Bharati Vidyapeeth's Institute of of Computer Applications and Management",
@@ -212,6 +195,24 @@ export const experiences = [
             text:
               "Designed and deployed intuitive dashboards enabling users to submit, track, and monitor grievances, while providing administrators with tools to update statuses, add detailed remarks, filter grievances by various criteria, and generate comprehensive reports for streamlined grievance management.",
             link: "https://grievance-redressal-system-vfft.onrender.com/",
+          },
+        ],
+      },
+    ],
+  },
+  {
+    organisation: "Coding Ninjas, India",
+    logo: codingninjas,
+    link: "https://www.codingninjas.com/",
+    positions: [
+      {
+        title: "Teaching Assistant Intern",
+        duration: "August 2020 - December 2020",
+        content: [
+          {
+            text:
+              "Mentored a batch of 50 plus students to help them with their Java and Data Structure Algorithm assignments and set problems for monthly assessments. Mentored students to improve problem solving skills.",
+            link: "",
           },
         ],
       },
