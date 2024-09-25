@@ -34,7 +34,7 @@ import {
 import { DiCss3, DiJava } from "react-icons/di";
 
 export const resumeLink =
-  "https://drive.google.com/file/d/1TwPJsZw9NiwvNZFZ6bON4SNyKkci0UwA/view?usp=sharing";
+  "https://drive.google.com/file/d/1q8VFhZGSBfdNGos5Q-wsb-zU3WNxZzgF/view?usp=sharing";
 export const repoLink = "https://github.com/aashiyatanwar";
 
 export const callToAction =
